@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> i'm vinay, fullstack developer
 
 - 👀 I can built useful and reliable web applications using technologies: Mongo,Express,react and Node.Js
-- Contact me here kolluvinay425@gmail.com for more information
+- 📫 you can reach me through my email kolluvinay425@gmail.com to have a chat.
 
 #### Link to my [Portfolio](https://kvinay.herokuapp.com)
 
