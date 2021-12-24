@@ -1,5 +1,5 @@
-- 👋 Hi, I’m vinay full stack developer
-- 👀 I’m interested in web development
-- 📫 you can reach me through my email  kolluvinay425@gmail.com
+- 👋 Hi, I’m vinay MERN stack developer
+- 👀 I can built usefull and reliable web applications using technologies: Mongo,Express,react and Node.Js
+- 📫 you can reach me through my email  kolluvinay425@gmail.com ,pleasure to have a chat.
 
 
