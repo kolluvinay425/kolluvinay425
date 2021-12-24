@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> i'm vinay fullstack developer-
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> i'm vinay fullstack developer
 
 - 👀 I can built useful and reliable web applications using technologies: Mongo,Express,react and Node.Js
 
