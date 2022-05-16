@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> i'm vinay, MERN Full Stack Developer
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> i'm vinay, Full Stack Developer
 
 - 👀 I can build useful and reliable web applications using technologies namely Mongo, Express, react and Node.Js
 - 📫 you can reach me through my email kolluvinay425@gmail.com to have a chat.
